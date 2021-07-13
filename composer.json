@@ -14,7 +14,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "inspheric/nova-url-field": "^1.4",
         "kg-bot/laravel-localization-to-vue": "^1.6",
-        "laravel/framework": "^8.43",
+        "laravel/framework": "^8.50",
         "laravel/nova": "^3.22",
         "laravel/slack-notification-channel": "^2.3",
         "laravel/tinker": "^2.5",
@@ -22,16 +22,16 @@
         "spatie/laravel-translatable": "^4.0",
         "tightenco/nova-releases": "^1.0",
         "tightenco/suggested-resources-shortcuts": "*",
-        "tightenco/ziggy": "^1.1"
+        "tightenco/ziggy": "^1.3"
     },
     "require-dev": {
-        "barryvdh/laravel-debugbar": "^3.5",
+        "barryvdh/laravel-debugbar": "^3.6",
         "barryvdh/laravel-ide-helper": "^2.10",
         "beyondcode/laravel-dump-server": "^1.7",
         "brianium/paratest": "^6.3",
         "facade/ignition": "^2.5",
         "fakerphp/faker": "^1.9.1",
-        "filp/whoops": "^2.12",
+        "filp/whoops": "^2.13",
         "friendsofphp/php-cs-fixer": "^2.18",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
